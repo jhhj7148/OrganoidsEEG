@@ -13,6 +13,7 @@
 - `functions/`：常用的预处理和特征计算脚本，如 `MEA_convert.m`、`compute_nEEGfeats.m` 等。
 - `util_funcs/`：信号处理和突触事件检测等辅助函数。
 - `scripts/`：若干分析流程示例脚本，需根据个人数据路径进行修改。
+- `methods/`：存放项目相关的文献资料，分为 `dry_lab` 与 `wet_lab` 两类，方便日后补充PDF等文件。
 - `*.ipynb`：基于Python的Jupyter Notebook，用于进一步的数据探索和模型建立。
 
 依赖环境
